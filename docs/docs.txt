@@ -1,4 +1,4 @@
-docs.txt 0.0.0                       UTF-8                      dh:2021-02-09
+docs.txt 0.0.1                       UTF-8                      dh:2021-02-14
 
                             nfoWare/nfoWorks nfoTools
                             =========================
@@ -22,6 +22,10 @@ MANIFEST
     docs.txt
         this manifest and job-jar file
 
+   index.md
+        Markdown source for the index.html home page published as
+        <https://orcmid.github.io/docEng/index.html>
+
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
                        Copyright 2021 Dennis E. Hamilton
@@ -40,7 +44,12 @@ MANIFEST
 
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-TODO
+ ATTRIBUTION
+
+   Hamilton, Dennis E. docEng Documentation Source Code Folder manifest and
+   job jar.  Text file docs.txt version 0.0.1 dated 2021-02-14 available on the Internet at <https://orcmid.github.io/docEng/docs.txt>
+
+ TODO
 
   * Explain how this folder is used to generate the GitHub pages, possibly
     with additional folders that are about the scaffolding and construction
@@ -53,14 +62,12 @@ TODO
 
   * Inspect the Miser Project handling of docs/ for abstraction of a model.
 
-  * Add attribution boilerplate here, establishing good footing.
-
   * Add Apache license and notices page ??  - It goes with the project, what
     about the site?
 
 
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-  0.0.0 2021-02-09T22:31Z Supply minimal boilerplate for the docs/ folder
+ 0.0.1 2021-02-15T00:03Z Add attribution and account for index.md.
+ 0.0.0 2021-02-09T22:31Z Supply minimal boilerplate for the docs/ folder
 
                           ***** end of docs.txt *****
