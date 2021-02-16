@@ -1,7 +1,7 @@
-docs.txt 0.0.1                       UTF-8                      dh:2021-02-14
+docs.txt 0.0.2                       UTF-8                      dh:2021-02-15
 
-                            nfoWare/nfoWorks nfoTools
-                            =========================
+                            nfoWare/nfoWorks docEng
+                            =======================
 
         <https://github.com/orcmid/docEng/blob/master/docs/docs.txt>
                   <https://orcmid.github.io/docEng/docs.txt>
@@ -10,21 +10,30 @@ docs.txt 0.0.1                       UTF-8                      dh:2021-02-14
                    ---------------------------------------
 
     Documentation of docEng tools and approaches is provided here as the
-    source of GitHub Pages that are automatically published to
+    source of GitHub Pages for automatic publishing to
     <https://orcmid.github.io/docEng/>.  This scaffolding page is also
-    published there.
+    published there as passive but reachable content.
 
     This scaffolding, and further arrangements are a case of document
     engineering applied to the docEng project and site themselves.
 
 MANIFEST
 
-    docs.txt
-        this manifest and job-jar file
+        docs.txt
+            this manifest and job-jar file
 
-   index.md
-        Markdown source for the index.html home page published as
-        <https://orcmid.github.io/docEng/index.html>
+       index.md
+            Markdown source for the index.html home page published as
+            <https://orcmid.github.io/docEng/index.html>
+
+       about/
+            subfolder for the about page and subordinate material on the
+            the purpose and management of the project and connection with
+            the "principal investigator."
+
+construction/
+            construction materials and documentation of the structure and
+            authoring of the <https://orcmid.github.io/docEng/> materials.
 
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -47,7 +56,7 @@ MANIFEST
  ATTRIBUTION
 
    Hamilton, Dennis E. docEng Documentation Source Code Folder manifest and
-   job jar.  Text file docs.txt version 0.0.1 dated 2021-02-14 available on the Internet at <https://orcmid.github.io/docEng/docs.txt>
+   job jar.  Text file docs.txt version 0.0.2 dated 2021-02-15 available on the Internet at <https://orcmid.github.io/docEng/docs.txt>
 
  TODO
 
@@ -60,14 +69,11 @@ MANIFEST
   * Find another way if there can be one.  MathJax is not crucial here, but
     other theming is desirable.
 
-  * Inspect the Miser Project handling of docs/ for abstraction of a model.
-
   * Add Apache license and notices page ??  - It goes with the project, what
     about the site?
 
-
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 0.0.1 2021-02-15T00:03Z Add attribution and account for index.md.
+ 0.0.1 2021-02-15T00:06Z Add attribution and account for index.md.
  0.0.0 2021-02-09T22:31Z Supply minimal boilerplate for the docs/ folder
 
                           ***** end of docs.txt *****
