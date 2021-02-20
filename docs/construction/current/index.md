@@ -139,13 +139,15 @@ as a header.
 
 ###### H6 Header
 
-<small><small>The smallest header levels could use some smaller text.
-</small></small>
+<small>The smallest header levels could use some smaller text.
+</small>
 
 ---
 ```
 
-<!-- 0.0.2 2021-02-16T01:09Z transposing to docEng for further development.
+<!-- 0.0.3 2021-02-20T01:48 eliminate the stacking of <small>...</small> in
+           the code block on H6.
+     0.0.2 2021-02-16T01:09Z transposing to docEng for further development.
      0.0.1 2019-11-24-10:59 version 0.0.4 of this page in the Miser Project
            docs/ repository -->
 
