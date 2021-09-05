@@ -1,4 +1,4 @@
-docEng.txt 0.0.0                    UTF-8                      dh:2021-02-14
+docEng.txt 0.0.1                    UTF-8                      dh:2021-09-05
 
              nfoWare/nfoWorks docEng Document Engineering Project
              ====================================================
@@ -11,13 +11,21 @@ docEng.txt 0.0.0                    UTF-8                      dh:2021-02-14
                      SOURCE CODE VERSION CONTROL REPOSITORY
                      --------------------------------------
 
-    nfoTools is a collection of utilities and software components.  The
-    tools are designed for in the composition of larger software projects
-    for information-processing applications.  They can apply anywhere in
-    the complete learning-and-improvement lifecycle of software projects.
+    docEng is a collection of practices, utilities and software components.
+    The patterns are all around Document Engineering involving GitHub in
+    some capacity.
 
-    While nfoTools are useful independently, they are chosen and developed
-    in service of specific nfoWare.com and nfoWorks.org software efforts.
+    There is attention on how to structure for documentation of software
+    projects.  There is attention on how to structure web-site organization
+    for development and for documentation.  And there is attention to the
+    processing of document representations in various forms.
+
+    The determination and calibration of document-processing interop is a
+    separate project, currently in hibernation: orcmid/DocInterop on GitHub.
+
+    Document Engineering patterns are developed with implementations found
+    in other GitHub projects.  The Document Engineerng application to docEng
+    itself is a flavor of self-referential pattern.
 
 MANIFEST
 
@@ -66,8 +74,9 @@ MANIFEST
 ATTRIBUTION
 
    Hamilton, Dennis E. Patterns, Practices, and Tools for Document
-   Engineering, manifest and job jar.  Text file docEng.txt version 0.0.0
-   dated 2021-02-14 available on the Internet at <https://github.com/orcmid/docEng/blob/master/docEng.txt>
+   Engineering, manifest and job jar.  Text file docEng.txt version 0.0.1
+   dated 2021-09-05 available on the Internet at
+   <https://github.com/orcmid/docEng/blob/master/docEng.txt>
 
 
 TODO
@@ -85,9 +94,13 @@ TODO
   * Start using orcmid/docEng Issues, Discussion, and Projects for operation
     in the open
 
+  * Get into the GitHub templates for documentation and deal with it in the
+    Construction Materials of the docEng site.  See
+    <https://github.com/orcmid/nfoTools/issues/8>.
+
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-
+ 0.0.1 2021-09-05T17:12Z Replace nfoTools boilerplate with docEng material.
  0.0.0 2021-02-15T00:35Z Initial placeholder of the top level manifest and
        job jar.
 
