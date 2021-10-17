@@ -1,10 +1,10 @@
-docEng.txt 0.0.1                    UTF-8                      dh:2021-09-05
+docEng.txt 0.0.2                    UTF-8                      dh:2021-10-17
 
              nfoWare/nfoWorks docEng Document Engineering Project
              ====================================================
 
                       <https://github.com/orcmid/docEng>
-          <https://github.com/orcmid/docEng/blob/master/docEng.txt>
+           <https://github.com/orcmid/docEng/blob/main/docEng.txt>
 
            PATTERNS, PRACTICES, AND TOOLS FOR DOCUMENT ENGINEERING
 
@@ -74,9 +74,9 @@ MANIFEST
 ATTRIBUTION
 
    Hamilton, Dennis E. Patterns, Practices, and Tools for Document
-   Engineering, manifest and job jar.  Text file docEng.txt version 0.0.1
+   Engineering, manifest and job jar.  Text file docEng.txt version 0.0.2
    dated 2021-09-05 available on the Internet at
-   <https://github.com/orcmid/docEng/blob/master/docEng.txt>
+   <https://github.com/orcmid/docEng/blob/main/docEng.txt>
 
 
 TODO
@@ -98,8 +98,12 @@ TODO
     Construction Materials of the docEng site.  See
     <https://github.com/orcmid/nfoTools/issues/8>.
 
+  * Remove incorrect use of "master" where "main" is the correct default
+    branch in this repository.
+
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
+ 0.0.2 2021-10-17T21:30Z Identify needd to change "master" to "main" here.
  0.0.1 2021-09-05T17:12Z Replace nfoTools boilerplate with docEng material.
  0.0.0 2021-02-15T00:35Z Initial placeholder of the top level manifest and
        job jar.
