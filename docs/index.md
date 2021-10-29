@@ -1,10 +1,10 @@
-<!-- index.md 0.0.1              UTF-8                      dh:2021-02-15 -->
-
-<!--|----1----|----2----|----3----|----4----|----5----|----6----|----7----|-->
-<!-- source <https://github.com/orcmid/docEng/blob/master/docs/index.md>
+<!-- index.md 0.0.2              UTF-8                         dh:2021-10-29
+     ----1----|----2----|----3----|----4----|----5----|----6----|----7----|--
+     source <https://github.com/orcmid/docEng/blob/main/docs/index.md>
      construction structure, manifest, and job jar at
      <https://orcmid.github.io/docEng/docs.txt>
      -->
+
 # The docEng Project on GitHub
 
 This space is under construction.  This page will become the home page for
@@ -44,11 +44,12 @@ at [current](construction/current/) here.
 
 Placeholder initiated 2021-02-15T23:56Z
 Construction structure at <https://orcmid.github.io/miser/docs.txt>
-<!--
-     -->
-<!--                *** end of docs/index.md ***                           -->
 
-<!-- 0.0.1 2021-02-15T23:54Z Adapt the Miser Project docs/index.md 0.0.4
+<!--
+     0.0.2 2021-10-29T21:54Z Smoothing, changing "master" to "main"
+     0.0.1 2021-02-15T23:54Z Adapt the Miser Project docs/index.md 0.0.4
            for the front-porch of docEng/docs/
      0.0.0 2021-02-09T22:38Z create placeholder home page form docEng
-           GitHub docs -->
+           GitHub docs
+     -->
+<!--                *** end of docs/index.md ***                         -->

@@ -1,4 +1,5 @@
-docEng.txt 0.0.2                    UTF-8                      dh:2021-10-17
+docEng.txt 0.0.3                    UTF-8                      dh:2021-10-29
+----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
              nfoWare/nfoWorks docEng Document Engineering Project
              ====================================================
@@ -53,7 +54,7 @@ MANIFEST
          repositories, applying to working files that are not part of the
          managed archive materials
 
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
                        Copyright 2021 Dennis E. Hamilton
 
@@ -69,13 +70,13 @@ MANIFEST
     See the License for the specific language governing permissions and
     limitations under the License.
 
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
 ATTRIBUTION
 
    Hamilton, Dennis E. Patterns, Practices, and Tools for Document
-   Engineering, manifest and job jar.  Text file docEng.txt version 0.0.2
-   dated 2021-09-05 available on the Internet at
+   Engineering, manifest and job jar.  Text file docEng.txt version 0.0.3
+   dated 2021-10-29 available on the Internet at
    <https://github.com/orcmid/docEng/blob/main/docEng.txt>
 
 
@@ -98,11 +99,9 @@ TODO
     Construction Materials of the docEng site.  See
     <https://github.com/orcmid/nfoTools/issues/8>.
 
-  * Remove incorrect use of "master" where "main" is the correct default
-    branch in this repository.
-
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
+ 0.0.3 2021-10-29T22:31Z Smooth, replace "master" with "main"
  0.0.2 2021-10-17T21:30Z Identify needd to change "master" to "main" here.
  0.0.1 2021-09-05T17:12Z Replace nfoTools boilerplate with docEng material.
  0.0.0 2021-02-15T00:35Z Initial placeholder of the top level manifest and

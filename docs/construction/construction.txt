@@ -1,10 +1,10 @@
-construction.txt 0.0.0               UTF-8                       dh:2021-02-15
+construction.txt 0.0.1              UTF-8                       dh:2021-10-29
 ----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
                            The docEng Project Web
                            ======================
 
-<https://github.com/orcmid/docEng/blob/master/docs/construction/construction.txt>
+<https://github.com/orcmid/docEng/blob/main/docs/construction/construction.txt>
 
               GITHUB DOCENG PROJECT DOCS CONSTRUCTION MATERIAL
               ------------------------------------------------
@@ -28,7 +28,7 @@ MANIFEST
               template.
 
 
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
                       Copyright 2021 Dennis E. Hamilton
 
@@ -44,7 +44,7 @@ MANIFEST
     See the License for the specific language governing permissions and
     limitations under the License.
 
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
  TODO
 
@@ -116,8 +116,11 @@ MANIFEST
   * Repair the substructure and content of construction/ to reside directly at
     docs/construction/ and https://orcmid.github.io/miser/construction.
 
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+  * Add attribution
 
+----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
+
+ 0.0.1 2021-10-29T21:58Z Smooth, change "master" to "main," add rulers
  0.0.0 2021-02-16T00:36Z Create placeholder and initial job jar for docEng
        Project documentation authoring "about/construction/", morphing the
        same page of the Miser Project.  All that experimentation with the

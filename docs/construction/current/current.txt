@@ -1,10 +1,10 @@
-current.txt 0.0.1                    UTF-8                       dh:2021-02-15
+current.txt 0.0.2                   UTF-8                       dh:2021-10-29
 ----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
                            The docEng Project Site
                            =======================
 
-<https://github.com/orcmid/docEng/blob/master/docs/construction/current/current.txt>
+<https://github.com/orcmid/docEng/blob/main/docs/construction/current/current.txt>
 
                      MARKDOWN FEATURE CONFIRMATION PAGE
                      ----------------------------------
@@ -31,7 +31,7 @@ MANIFEST
                <https://orcmid.github.io/docEng/construction/current/>
                authoring material
 
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
                       Copyright 2019 Dennis E. Hamilton
 
@@ -47,7 +47,7 @@ MANIFEST
     See the License for the specific language governing permissions and
     limitations under the License.
 
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
  TODO
 
@@ -87,8 +87,9 @@ MANIFEST
   * demonstrate image squeezing along with text-flow adjustment.  This will
     have to be captured under plain also.
 
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
+ 0.0.2 2021-10-29T22:18Z Smooth, change "master" to "main"
  0.0.1 2021-02-15T00:59Z Transpose this page from the same place in the
        Miser Project docs/ and make the placeholder for docEng.
  0.0.0 2019-11-20-16:14 Create placeholder and initial job jar for the

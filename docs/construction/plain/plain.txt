@@ -1,10 +1,10 @@
-plain.txt 0.0.2                      UTF-8                          2021-02-19
+plain.txt 0.0.3                     UTF-8                          2021-10-29
 ----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
                            The docEng Project Site
                            =======================
 
-<https://github.com/orcmid/docEng/blob/master/docs/construction/current/current.txt>
+<https://github.com/orcmid/docEng/blob/main/docs/construction/current/current.txt>
 
                     CONFIRMED PLAIN TEMPLATE EXPERIENCE
                     -----------------------------------
@@ -50,7 +50,7 @@ MANIFEST
                 of the version that the capture information applies to.
 
 
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
                     Copyright 2019-2021 Dennis E. Hamilton
 
@@ -66,7 +66,7 @@ MANIFEST
     See the License for the specific language governing permissions and
     limitations under the License.
 
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
  TODO
 
@@ -84,8 +84,11 @@ MANIFEST
 
   * Capture the automatic page top and page bottom that occur with plain.
 
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+  * Add attribution
 
+----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
+
+ 0.0.3 2021-10-20T22:07Z Smooth, change "master" to "main"
  0.0.2 2021-02-20-01:57Z Add plain.index.md.txt as a raw text form of the
        latest current/index.md file the features of which are captured here.
  0.0.1 2021-02-16T00:45Z Transpose to the counterpart page of the docEng

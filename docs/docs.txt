@@ -1,9 +1,10 @@
-docs.txt 0.0.2                       UTF-8                      dh:2021-02-15
+docs.txt 0.0.2                      UTF-8                       dh:2021-10-29
+----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
                             nfoWare/nfoWorks docEng
                             =======================
 
-        <https://github.com/orcmid/docEng/blob/master/docs/docs.txt>
+        <https://github.com/orcmid/docEng/blob/main/docs/docs.txt>
                   <https://orcmid.github.io/docEng/docs.txt>
 
                    DOCENG DOCUMENTATION SOURCE CODE FOLDER
@@ -35,7 +36,7 @@ construction/
             construction materials and documentation of the structure and
             authoring of the <https://orcmid.github.io/docEng/> materials.
 
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
                        Copyright 2021 Dennis E. Hamilton
 
@@ -51,12 +52,13 @@ construction/
     See the License for the specific language governing permissions and
     limitations under the License.
 
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
  ATTRIBUTION
 
    Hamilton, Dennis E. docEng Documentation Source Code Folder manifest and
-   job jar.  Text file docs.txt version 0.0.2 dated 2021-02-15 available on the Internet at <https://orcmid.github.io/docEng/docs.txt>
+   job jar.  Text file docs.txt version 0.0.2 dated 2021-02-15 available on
+   the Internet at <https://orcmid.github.io/docEng/docs.txt>
 
  TODO
 
@@ -72,7 +74,8 @@ construction/
   * Add Apache license and notices page ??  - It goes with the project, what
     about the site?
 
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
+ 0.0.2 2021-10-29T21:46Z Change "master" to "main," add rulers
  0.0.1 2021-02-15T00:06Z Add attribution and account for index.md.
  0.0.0 2021-02-09T22:31Z Supply minimal boilerplate for the docs/ folder
 
