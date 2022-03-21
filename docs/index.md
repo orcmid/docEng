@@ -1,4 +1,4 @@
-<!-- index.md 0.0.2              UTF-8                         dh:2021-10-29
+<!-- index.md 0.0.3              UTF-8                         dh:2022-03-21
      ----1----|----2----|----3----|----4----|----5----|----6----|----7----|--
      source <https://github.com/orcmid/docEng/blob/main/docs/index.md>
      construction structure, manifest, and job jar at
@@ -43,9 +43,10 @@ Demonstration of the current theme, including the markdown elements, is
 at [current](construction/current/) here.
 
 Placeholder initiated 2021-02-15T23:56Z
-Construction structure at <https://orcmid.github.io/miser/docs.txt>
+Construction structure at <https://orcmid.github.io/docEng/docs.txt>
 
 <!--
+     0.0.3 2022-03-21T17:38Z Correct Construction structure link
      0.0.2 2021-10-29T21:54Z Smoothing, changing "master" to "main"
      0.0.1 2021-02-15T23:54Z Adapt the Miser Project docs/index.md 0.0.4
            for the front-porch of docEng/docs/
