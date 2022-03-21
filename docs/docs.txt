@@ -1,4 +1,4 @@
-docs.txt 0.0.2                      UTF-8                       dh:2021-10-29
+docs.txt 0.0.3                      UTF-8                       dh:2022-03-21
 ----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
                             nfoWare/nfoWorks docEng
@@ -38,7 +38,7 @@ construction/
 
 ----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
-                       Copyright 2021 Dennis E. Hamilton
+                    Copyright 2021-2022 Dennis E. Hamilton
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -57,7 +57,7 @@ construction/
  ATTRIBUTION
 
    Hamilton, Dennis E. docEng Documentation Source Code Folder manifest and
-   job jar.  Text file docs.txt version 0.0.2 dated 2021-02-15 available on
+   job jar.  Text file docs.txt version 0.0.3 dated 2022-03-21 available on
    the Internet at <https://orcmid.github.io/docEng/docs.txt>
 
  TODO
@@ -74,7 +74,24 @@ construction/
   * Add Apache license and notices page ??  - It goes with the project, what
     about the site?
 
+  * Figure out how to deal with the handling of Hugo frameworks in this
+    context.  I want to experiment first.  How will that work exactly.
+
+  * I have not completed the About and Construction stuff on how the default
+    docs/ publishing template works.  I do need to handle that.  Also, if
+    I branch off into trying a framework, I have to contend with that case
+    also.
+
+  * I really want to have a sandbox for trying different web-site frameworks
+    and generation methods.  Maybe I need to move spanner wingnut to GitHub?
+    This might be the safest thing.  Put it in a separate project so I can
+    migrate it different ways and have it all work.  I can also look at what
+    I did in the hexo case, and with the test files for hexo cases.
+
+  * This is hurting my head.
+
 ----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
+ 0.0.3 2022-03-21T17:18Z Manage TODOs, consider Hugo and wingnut approaches
  0.0.2 2021-10-29T21:46Z Change "master" to "main," add rulers
  0.0.1 2021-02-15T00:06Z Add attribution and account for index.md.
  0.0.0 2021-02-09T22:31Z Supply minimal boilerplate for the docs/ folder
