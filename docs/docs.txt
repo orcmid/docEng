@@ -1,4 +1,4 @@
-docs.txt 0.0.3                      UTF-8                       dh:2022-03-21
+docs.txt 0.0.4                      UTF-8                       dh:2022-03-26
 ----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
                             nfoWare/nfoWorks docEng
@@ -57,19 +57,36 @@ construction/
  ATTRIBUTION
 
    Hamilton, Dennis E. docEng Documentation Source Code Folder manifest and
-   job jar.  Text file docs.txt version 0.0.3 dated 2022-03-21 available on
+   job jar.  Text file docs.txt version 0.0.4 dated 2022-03-26 available on
    the Internet at <https://orcmid.github.io/docEng/docs.txt>
 
  TODO
+
+  * This will be the publication staging folder when publication is handled
+    by generation under a framework such as Hugo.  The extra stage is to
+    allow review at the authoring location so only publish-ready material is
+    brought here when the time comes.
+
+  * This is one of the pages that is part of the authoring structure too, so
+    we need to confirm that and also deal with it in the location information.
+
+  * This is a variation on the site-server model.  Document that.  Maybe in
+    a notes section.
 
   * Explain how this folder is used to generate the GitHub pages, possibly
     with additional folders that are about the scaffolding and construction
     materials.
 
-  * Figure out what to do about Jekyll and its templates.
+  * I am not going to use jekyll or use docs/ as framework pages.  I will use
+    docs/ as a publishing place for the static materials that are published to
+    orcmid.github.io/docEng but not authored here.  Authoring is elsewhere so
+    there can be review, etc., before committing here.
 
-  * Find another way if there can be one.  MathJax is not crucial here, but
-    other theming is desirable.
+  * The staging publishing place would be moved here to docs/ from another
+    "publish/public" location that might be copied over a clone location of
+    the GitHub orcmid/docEng/docs folder.
+
+  * I am going to explore hugo and the hugo-books template with KaTeX support.
 
   * Add Apache license and notices page ??  - It goes with the project, what
     about the site?
@@ -90,7 +107,21 @@ construction/
 
   * This is hurting my head.
 
+  * Add Hugo under tools and handle the establishment and use of Hugo and
+    templates there.
+
+  * If there is a dev for this Hugo-auhored structure, it might be about the
+    publishing in Hugo format.
+
+  * It is tricky here between this site being in a particular Hugo
+    templated and it being something else.  So the native or plain case needs
+    to be handled also.
+
+  * Complete the current construction structure and the about and then also
+    use the construction folder to document the framework(s) used.
+
 ----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
+ 0.0.4 2022-03-26T21:19Z Manage TODOs and prepare for framework introduction
  0.0.3 2022-03-21T17:18Z Manage TODOs, consider Hugo and wingnut approaches
  0.0.2 2021-10-29T21:46Z Change "master" to "main," add rulers
  0.0.1 2021-02-15T00:06Z Add attribution and account for index.md.
