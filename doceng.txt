@@ -1,4 +1,4 @@
-docEng.txt 0.0.3                    UTF-8                      dh:2021-10-29
+docEng.txt 0.0.4                    UTF-8                      dh:2022-04-29
 ----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
              nfoWare/nfoWorks docEng Document Engineering Project
@@ -56,7 +56,7 @@ MANIFEST
 
 ----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
-                       Copyright 2021 Dennis E. Hamilton
+                    Copyright 2021-2022 Dennis E. Hamilton
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -75,8 +75,8 @@ MANIFEST
 ATTRIBUTION
 
    Hamilton, Dennis E. Patterns, Practices, and Tools for Document
-   Engineering, manifest and job jar.  Text file docEng.txt version 0.0.3
-   dated 2021-10-29 available on the Internet at
+   Engineering, manifest and job jar.  Text file docEng.txt version 0.0.4
+   dated 2022-04-29 available on the Internet as a version of
    <https://github.com/orcmid/docEng/blob/main/docEng.txt>
 
 
@@ -99,8 +99,83 @@ TODO
     Construction Materials of the docEng site.  See
     <https://github.com/orcmid/nfoTools/issues/8>.
 
+  * I need docEng of the docEng/docs about docEng.  This seemingly recursive
+    case needs to bottom out on some ground case.
+
+  * With regard to web-published documentation, this seems to be the place
+    for wingnut.  Or do I really need a wingnut project?  It certainly has
+    its own blog(s), etc., but that does not prevent it from being under
+    docEng.
+
+  * On the other hand, it might make more sense to have nfoCentrale
+    as a GitHub project, just like that web has been under VSS.  Must think
+    this through.  Wingnut is about blogs and not web sites, but it is a
+    portion of a larger project.  But there are individual webs under IIS
+    in the nfoCentral publishing model, even though they map to subfolders
+    on A2 Hosting's nfoCentrale.com site.  So they are managed individually
+    and updates published individually.
+
+  * The nfoCentrale publishing model does rely on the site-server model to
+    distinguish between authoring (in FrontPage) and publishing (via FTP from
+    shared VSS of final-form HTML and assets).
+
+  * Do I really want to rescue nfoCentrale.com?  I should subdivide it then,
+    and I should probably keep the projects private.
+
+  * Can a project be published (under orcmid.github.io) even when the
+    authoring repository is private?  I need to look into that.
+
+  * Can I rescue an nfoCentrale.com web site into a Hugo site?  What will
+    have to change?  COOL.  GitHub publishes .md files to .html, not .htm,
+    so I can have my construction structures and other files side-by-side.
+
+  * With regard to granularity, it is clear I should not have repositories
+    larger than the domains that map to nfoCentrale.com.  I will not keep
+    the separate domains (or at least not most of them), but I can make them
+    separate GitHub projects and isolate the authoring.  Whether I publish
+    to individual docs or into a larger one is a separate consideration.
+    I am conflicted about that.  I don't want to think of GitHub having to
+    republish large chunks or even an entire mega-doc folder.
+
+  * I need to think through the nfoCentral federation of sites to a rescue
+    and preservation on GitHub.
+
+  * I also need to find a way to make headway on important nfoTools, Miser,
+    and docEng efforts without getting badly detoured.
+
+  * A goal for breaking the logjam, without floating all the logs at once,
+    is employment of Hugo for orcmid.github.io/docEng itself and going on
+    from there.  Hugo will come under tools/ and maybe dev/ here.  There also
+    may need to be a wingnut preservation as demonstration of the rescue and
+    also introduction of Hugo for it.
+
+  * I assume that a repository that is specifically for a web site could have
+    GitHub Pages be at the root.  It makes the README be a little weird,
+    except it can serve as the front porch. I should try that.  I need to be
+    careful about its maintenance as a Hugo site then.  Yes, that's weird.
+    Obviously needs to be tried with wingnut and I need to get my head around
+    this case.  I'm just attempting to save a level of nesting for a project
+    that is entirely about a web site.
+
+  * In this case, the clone is a Hugo publishing folder, not the Hugo
+    authoring folder.  That breaches wanting to have the authoring be under
+    Git.  I must adjust the model for that.  It looks like the Hugo site
+    should be a project and its public should be the GitHub pages.  There is
+    a small matter of customization of other aspects and how that syncs with
+    Hugo updates.  These are customizations of dependencies.  I need to figure
+    out how that can work.
+
+  * This is complicated.  I have to figure out what not to clone yet I can
+    customize and preserve in GitHub.  I don't think I should be using
+    .gitmodule in this.  I then need to deal with dependency/customization
+    management.  My head hurts and I will stop for now.
+
+  * I need some simple rescue efforts in Hugo.
+
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
+ 0.0.4 2022-04-29T17:31Z Pondering web-site authoring collaboration models
+       and how to handle/incorporate rescuing sites to Hugo.
  0.0.3 2021-10-29T22:31Z Smooth, replace "master" with "main"
  0.0.2 2021-10-17T21:30Z Identify needd to change "master" to "main" here.
  0.0.1 2021-09-05T17:12Z Replace nfoTools boilerplate with docEng material.
