@@ -1,4 +1,4 @@
-docs.txt 0.0.4                      UTF-8                       dh:2022-03-26
+docs.txt 0.0.5                      UTF-8                         2022-10-13
 ----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
                             nfoWare/nfoWorks docEng
@@ -57,7 +57,7 @@ construction/
  ATTRIBUTION
 
    Hamilton, Dennis E. docEng Documentation Source Code Folder manifest and
-   job jar.  Text file docs.txt version 0.0.4 dated 2022-03-26 available on
+   job jar.  Text file docs.txt version 0.0.5 dated 2022-10-13 available on
    the Internet at <https://orcmid.github.io/docEng/docs.txt>
 
  TODO
@@ -120,7 +120,22 @@ construction/
   * Complete the current construction structure and the about and then also
     use the construction folder to document the framework(s) used.
 
+  * Translation is a Skill and also Tools here.  I don't know that it applies
+    in nfoTools, although it certainly might on behalf of i18n.  We will see.
+
+  * There is a good article about translations using Microsoft Office at
+    <https://www.computerworld.com/article/3658212/how-to-translate-emails-documents-and-more-with-microsoft-office.html>
+    Provide a link to that.  It is not quite accurate in terms of settings,
+    but translation shows up as a feature (e.g., in Word) once the proofing
+    tools are installed.  (Not certain this is necessary.  Must try another
+    language to see.)
+
+  * Rescuing and retargeting web sites is also a thing.  I am doing that with
+    the Site Builder scheme for nfoCentrale, exfiltrating wingnut, Orcmid's
+    Lair, and nfoCentrale at least, along with nfo stuff.
+
 ----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
+ 0.0.5 2022-10-13T16:08Z Manage TODOs, strugle with Site Server model handling
  0.0.4 2022-03-26T21:19Z Manage TODOs and prepare for framework introduction
  0.0.3 2022-03-21T17:18Z Manage TODOs, consider Hugo and wingnut approaches
  0.0.2 2021-10-29T21:46Z Change "master" to "main," add rulers

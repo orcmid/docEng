@@ -1,13 +1,13 @@
-construction.txt 0.0.1              UTF-8                       dh:2021-10-29
+construction.txt 0.0.2              UTF-8                       dh:2022-10-13
 ----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
                            The docEng Project Web
                            ======================
 
-<https://github.com/orcmid/docEng/blob/main/docs/construction/construction.txt>
+         <https://orcmid.github.io/construction/construction.txt>
 
-              GITHUB DOCENG PROJECT DOCS CONSTRUCTION MATERIAL
-              ------------------------------------------------
+                GITHUB DOCENG PROJECT DOCS CONSTRUCTION ZONE
+                --------------------------------------------
 
 MANIFEST
 
@@ -19,7 +19,7 @@ MANIFEST
               markdown source
 
        current/
-              page that renders with the current theme, demonstrating
+              pages that renders with the current theme, demonstrating
               its markup provisions.
 
          plain/
@@ -30,7 +30,7 @@ MANIFEST
 
 ----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
-                      Copyright 2021 Dennis E. Hamilton
+                    Copyright 2021-2022 Dennis E. Hamilton
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -49,28 +49,24 @@ MANIFEST
  TODO
 
    * Find a clean way to talk about the *authored" documentation and the
-    *authoring" source that is published to be the documentation.  Need some
-    nomenclature that I don't keep tripping over.
+     "authoring" source that is published to be the documentation.  Need some
+     nomenclature that I don't keep tripping over.
 
   * Identify adaptation of the infrastructure technique used on sites such
     as miser-theory or the nfoCentrale sites in general.  Find appropriate
     links.
 
   * Find a theme that supports reflow.  The Pages templates do not seem to
-    provide for that.
+    provide for that. The no-template default does support reflow.  How to
+    ensure that with any of the provided themes remains to be understood.
 
   * If a theme is customized, determine where and how that works.
 
   * I am trusting that this material is current as of 2021-02-15:
     <https://help.github.com/en/github/working-with-github-pages/getting-started-with-github-pages>
 
-  * The default rendering, with no template, provides reflow in the manner
-    required for docEng Project documentation.  How to ensure that with any
-    of the provided themes remains to be understood.
-
-   * Determine how I can have some kind of versioning on my .md pages and
-     have that part be private (not rendered).  It depends on the GitHub
-     Markdown and maybe some YAML control.  Must find out about that.
+   * HTML comments can be used in Markdown pages to provide for the ruler and
+     also versioning.  This is being practiced now on nfoTools and elsewhere.
 
    * Work through all of the feature cases of GitHub Markdown to see what
      works with the default template.  Use construction/test/ or example/
@@ -79,29 +75,19 @@ MANIFEST
    * Create a test document (set) that demonstrates the main Markup
      provisions.
 
-   * Create a folder (i.e., plain/ that carries captured images of the
-     current test/demo document under the default template)
-
-   * Create a version of the text ruler for the markdown pages.
-
    * Make a template for the index.md source pages.
 
-   * Maybe it is harmonious to call this the Construction Zone ?
-
-   * Add a forensics folder on web-site and authoring, plus rouble-shooting,
+   * Add a forensics folder on web-site and authoring, plus trouble-shooting,
      reverse-engineering, etc.
-
-   * Could also introduce document-engineering in a sub-folder also.
 
    * Confirm preservation with pre-HTML5 browsers, such as Internet Explorer.
 
    * The "improve this page" and edit/master link requires being logged-in to
      GitHub.  We need a way to suppress that.  Document this in "plain."
 
-  * The folio system is a bit different here.  There can be a counterpart in
-    how pages and their assets are in folders.  The idea of version sequences
-    does not quite work unless we take it to a lower level.  The use of insert
-    pages might have no counterpart here.  Having the effect would take
+  * The TROSTing folio system is a bit different here.  There can be a
+    counterpart in how pages and their assets are in folders.  The use of
+    insert pages might have no counterpart here.  Having the effect would take
     copying.
 
   * GitHub, and use of Git, provides a valuable history and provenance system.
@@ -114,12 +100,31 @@ MANIFEST
     Construction Zone scheme on nfoCentrale.
 
   * Repair the substructure and content of construction/ to reside directly at
-    docs/construction/ and https://orcmid.github.io/miser/construction.
+    docs/construction/ and <https://orcmid.github.io/docEng/construction>.
 
   * Add attribution
 
+  * Add a folder for dealing with github.io characteristics as they influence
+    organization of pages here.  The experimental determinations provide
+    information that informs other GitHub Pages employment for other projects.
+
+  * Adjust for the prospect of using a framework that publishes from Markdown
+    to hypertext pages, with docs/ used as the mirror that GitHub publishes
+    from.  This is a counterpart of the site-server model that was behind all
+    of the nfoCentrale.com sites.
+
+  * Hugo and the Hugo docs template appears to provide the control I want for
+    authoring my own material and should be a topic as a docEng case.
+
+  * This Construction Zone is about the construction of the docEng site,
+    <https://orcmid.github.io/docEng>.  I did not anticipate having folio
+    structure here.  I am unclear why.  If I want to do forensics on GitHub
+    Pages, I could use a folio structure rather than more named subfolders.
+    Why am I resisting?
+
 ----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
+ 0.0.2 2022-10-13T16:05Z Manage TODOs, clarify what this Construction Zone is.
  0.0.1 2021-10-29T21:58Z Smooth, change "master" to "main," add rulers
  0.0.0 2021-02-16T00:36Z Create placeholder and initial job jar for docEng
        Project documentation authoring "about/construction/", morphing the
