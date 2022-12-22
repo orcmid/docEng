@@ -1,4 +1,4 @@
-docEng.txt 0.0.5                    UTF-8                      dh:2022-05-**
+docEng.txt 0.0.6                    UTF-8                      dh:2022-12-22
 ----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
              nfoWare/nfoWorks docEng Document Engineering Project
@@ -78,8 +78,8 @@ MANIFEST
 ATTRIBUTION
 
    Hamilton, Dennis E. Patterns, Practices, and Tools for Document
-   Engineering, manifest and job jar.  Text file docEng.txt version 0.0.5
-   dated 2022-10-13 available on the Internet as a version of
+   Engineering, manifest and job jar.  Text file docEng.txt version 0.0.6
+   dated 2022-12-22 available on the Internet as a version of
    <https://github.com/orcmid/docEng/blob/main/docEng.txt>
 
 
@@ -181,8 +181,19 @@ TODO
   * Here's a related/relevant skill item,
     <https://twitter.com/vardi/status/1523069742076022785>.
 
+  * Internationalization (i18n) and accessibility (a11y) are particularly
+    relevant in document engineering and applicable to docEng docs/.  There
+    is a cross-over with nfotools/docs (cf.) and this needs to be navigated.
+    Since we propose to use Hugo for document engineering of orcmid.github.io,
+    that all needs to be sorted out.
+
+  * Many nfoCentrale add-on domains are being retired and only replaced by
+    their subdomains.  This is an interesting process and might be managed
+    from here or orcmid.github.io/wingnut.  I am not clear about this.
+
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
+ 0.0.6 2022-12-22T17:01Z Manage TODOs, ponder a11y.
  0.0.5 2022-10-13T16:12Z Review of TODOs, pondering of approach here.
  0.0.4 2022-04-29T17:31Z Pondering web-site authoring collaboration models
        and how to handle/incorporate rescuing sites to Hugo.
