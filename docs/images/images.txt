@@ -1,0 +1,90 @@
+images.txt 0.0.6                     UTF-8                      dh:2022-12-23
+----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
+
+                           docEng: Document Engineering
+                           ============================
+
+    <https://github.com/orcmid/docEng/blob/main/docs/images/images.txt>
+            <https://orcmid.github.io/docEng/images/images.txt>
+
+                 DOCENG DOCUMENTATION-AUTHORING COMMON IMAGES
+                 ---------------------------------------------
+
+    This folder is for images that are used generally on the docEng
+    web site.  Images and screen captures on specific topics are carried
+    in the folios for those topics.
+
+    Note: This folder has no viewable index.md/.html page.  That is by intent.
+
+MANIFEST
+
+    images.txt
+        this manifest and job-jar file
+
+    hardhatarea.gif         large hard hat image useful for a full warning
+    hardhat-button.gif      tiny button-size image
+    hardhat-logo.gif        medium-small for in a folio title strip
+    hardhat-thumb.gif       correct size construction-structure footer link
+
+    B040801B2-policecar.gif       Used for nothing-to-see-here when I had to
+    B040801B3-policeofficer.gif   worry about blog crashes and firedrills
+
+    F56xx02-ChessPlayerDrawing.vsdx     preserved source
+    F56xx02-ChessPlayer-logo.png        the ChessKing player of games
+
+    DocEng-2022-10-13-1928-Printing.vsdx    preserved source images and
+    DocEng-2022-10-14-0744-LogoLarge.png    various .png sizes for use on
+    DocEng-2022-10-14-0751-LogoSmall.png    docEng pages, banners, and footers
+    DocEng-2022-10-14-0810-Typing.png
+    DocEng-2022-10-14-0814-Typing.vsdx
+    DocEng-2022-10-14-0823-TypingSmall.png
+    DocEng-2022-10-14-0830-TypingThumb.png
+
+----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
+
+                    Copyright 2021-2022 Dennis E. Hamilton
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
+----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
+
+ ATTRIBUTION
+
+   Hamilton, Dennis E. docEng Documentation-Authoring Common Images.
+   docEng project text file images.txt version 0.0.6 dated 2022-12-23,
+   available on the Internet as a version of
+   <https://orcmid.github.io/docEng/images/images.txt>
+
+TODO
+
+ * Consider other interesting ones, such as the ODMdev one, undecorated.
+
+ * the nfoWare images are more suitable for docInterop.
+
+ * the firedrill case should probably be a matter for docEng to consider.
+
+ * Scrub the images that are not needed here.
+
+ * Find or create alternative images for docEng.
+
+----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
+
+ 0.0.6 2022-12-23T20:54Z Update Manifest for docEng images
+ 0.0.5 2022-10-14T01:12Z Clone from nfoTools docs/image/image.txt
+ 0.0.4 2021-09-21T17:00Z Add ChessKing for games
+ 0.0.3 2021-09-02T19:41Z Add fire-drill and failure images
+ 0.0.2 2021-09-02T17:00Z Add attribution out of consistency, manage TODOs
+ 0.0.1 2021-08-30T19:00Z Add ruler
+ 0.0.0 2021-08-29T20:02Z Essential minimum images collection
+
+                      ***** end of images.txt *****
