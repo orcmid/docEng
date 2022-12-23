@@ -1,10 +1,18 @@
-<!-- index.md  0.0.1                UTF-8                       dh:2021-10-29
+<!-- index.md  0.0.2                UTF-8                       dh:2022-10-13
      ----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
      construction structure, manifest, and job jar:
      <https://orcmid.github.io/docEng/construction/construction.txt>
      -->
 
-# DOCENG PROJECT DOCS: CONSTRUCTION MATERIALS
+# [DOCENG PROJECT DOCS](https://orcmid.github.io/docEng): CONSTRUCTION ZONE
+
+This Construction Zone carries materials on the construction of the
+[docEng](https://orcmid.github.io/docEng) project site itself.  It illustrates
+some Document Engineering principles and patterms applied to the specific task
+of constructing and supporting this web site.
+
+
+
 
 ## *PLACE-HOLDER*
 
