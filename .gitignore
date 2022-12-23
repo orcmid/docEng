@@ -1,4 +1,4 @@
-# .gitignore 0.0.0                     UTF-8                    dh:2021-02-14
+# .gitignore 0.0.1                     UTF-8                    dh:2022-12-23
 #
 #                                  ORCMID/docEng
 #                                  =============
@@ -8,7 +8,7 @@
 #   This .gitignore file is designed to eliminate working folder material
 #   that should be excluded from check-in to the repository or any clone of
 #   it.  These will normally be intermediate and derived materials that are
-#   are not archived.  This is typically accomplished, where possible, by
+#   not archived.  This is typically accomplished, where possible, by
 #   excluding a directory whose contents are ephemeral, such as intermediates
 #   in a document generation procedure.
 
@@ -23,6 +23,7 @@
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
+# 0.0.1 2022-12-23T20:40Z Fix typo
 # 0.0.0 2021-02-15T01:14Z Minimal version as a placeholder in case any other
 #       need arises.
 
