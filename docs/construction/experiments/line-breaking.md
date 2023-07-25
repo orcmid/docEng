@@ -1,4 +1,4 @@
-<!-- line-breaking.md  0.0.1        UTF-8                          2023-07-25
+<!-- line-breaking.md  0.0.2        UTF-8                          2023-07-25
      ----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
                     SIMPLE EXPERIMENT ABOUT LINE-BREAKING
@@ -28,7 +28,7 @@ Here's another.
 This paragraph simply tests how line-continuations\
 signalled by \\ line-ends\
 provoke hard line breaks that inhibit\
-text-flowing wit the next line.
+text-flowing with the next line.
 
 The above was achieved (or not) by
 
@@ -36,7 +36,7 @@ The above was achieved (or not) by
 This paragraph simply tests how line-continuations\
 signalled by \\ line-ends\
 provoke hard line breaks that inhibit\
-text-flowing wit the next line.
+text-flowing with the next line.
 ```
 
 Note that this use of \\ is exactly the opposite of how that line-ending is
@@ -69,6 +69,8 @@ So endeth this experiment.
 
 <!-- ----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
+     0.0.3 2023-07-25T02:17Z Another try keeping spaces on the ends
+     0.0.2 2023-07-25T01:10Z Try again to keep spaces on ends of lines
      0.0.1 2023-07-25T00:44Z Corrected hard line-break \ case
      0.0.0 2023-07-25T00:24Z Initial Test Draft
 
