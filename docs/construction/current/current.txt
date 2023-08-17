@@ -1,5 +1,5 @@
-current.txt 0.0.2                   UTF-8                       dh:2021-10-29
-----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
+current.txt 0.0.3                   UTF-8                         2023-08-17
+*---|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
                            The docEng Project Site
                            =======================
@@ -31,7 +31,7 @@ MANIFEST
                <https://orcmid.github.io/docEng/construction/current/>
                authoring material
 
-----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
+*---|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
                       Copyright 2019 Dennis E. Hamilton
 
@@ -47,7 +47,7 @@ MANIFEST
     See the License for the specific language governing permissions and
     limitations under the License.
 
-----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
+*---|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
  TODO
 
@@ -74,7 +74,7 @@ MANIFEST
     permalinks.  They also show up with link symbols on a heading mouse-over.
     We want to be able to use these when cross-referencing within a page.  We
     want this to be available on any themes we use.  Demonstrate along with
-    headers or immediately afterwards.
+    headers or immediately afterwards. Also explain in the material.
 
   * The page-top title identifies the mini-web and links to its "root."
 
@@ -87,8 +87,13 @@ MANIFEST
   * demonstrate image squeezing along with text-flow adjustment.  This will
     have to be captured under plain also.
 
-----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
+  * The plain/ materials must be accomplished with image captures, of course.
 
+  * Number the heading levels so suggest subordination.
+
+*---|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
+
+ 0.0.3 2023-08-17T03:46Z Manage TODOs
  0.0.2 2021-10-29T22:18Z Smooth, change "master" to "main"
  0.0.1 2021-02-15T00:59Z Transpose this page from the same place in the
        Miser Project docs/ and make the placeholder for docEng.
