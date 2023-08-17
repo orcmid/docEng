@@ -1,4 +1,4 @@
-preservation.txt 0.0.0              UTF-8                         2023-08-17
+preservation.txt 0.0.1              UTF-8                         2023-08-17
 *---|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
                             nfoWare/nfoWorks docEng
@@ -6,7 +6,7 @@ preservation.txt 0.0.0              UTF-8                         2023-08-17
 
       <https://orcmid.github.io/docEng/preservation/preservation.txt>
 
-                 DOCENG SITE/DOCUMENT PRESERVATION ACTIVITY
+                 DOCENG SITE/DOCUMENT PRESERVATION NOTEBOOK
                  ------------------------------------------
 
     Documentation of preservation activities is housed here.  A major
@@ -18,6 +18,10 @@ MANIFEST
 
 preservation.txt
             this manifest and job-jar file
+
+       index.md
+            the authored form published as index.html, the front porch
+            of the preservation notebook web presence.
 
 
 *---|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
@@ -41,25 +45,48 @@ preservation.txt
  ATTRIBUTION
 
    Hamilton, Dennis E. docEng Site/Document Preservation Activity.  Text file
-   preservation.txt version 0.0.0 dated 2023-08-17 available on the Internet
+   preservation.txt version 0.0.1 dated 2023-08-17 available on the Internet
    at <https://orcmid.github.io/docEng/preservation/preservation.txt>.
 
  TODO
 
-  * Create a folder of the style employed for nfoTools that identifies a
-    variety of preservation activities.
-
    * First address preservation of a site maintained with the site-server
      model as a GitHub pages transposition.
-
 
   * Rescuing and retargeting web sites is also a thing.  I am doing that with
     the Site Builder scheme for nfoCentrale, exfiltrating wingnut, Orcmid's
     Lair, Miser, and nfoCentrale at least, along with nfo stuff.
 
+  * Use the nfoTools default GitHub markdown treatment for folio structures,
+    then consider an alternative authoring that involves direct HTML creation
+    (e.g., via FrontPage) and then via a Markdown authored alternative.  This
+    is about the preservability of the docEng documentation itself, and the
+    means of transposition through various "framework" efforts.
+
+  * Consider preservation of the nfoCentral common construction/ materials
+    as a seed construction/ for docEng.  This gets a bit too recursive and
+    I have to figure out where to pinch things off.
+
+  * The scaffolding model goes back to the Software Engineering team project
+    when I was studying for an M.Sc in Information Technology through an
+    on-line program conducted by the University of Liverpool.
+
+  * I need to preserve my "What's an Orcmid" page and the related one on the
+    M.Sc in IT effort.  I need to also add something on how much the courses
+    reminded me of how much I had already learned and absorbed over the course
+    of my career in software development.
+
+  * I need to update my LinkedIn profile to be retired.  I need to preserve it
+    somewhere too.  It is not so much docEng as github.com/orcmid.  Maybe that
+    will be https://orcmid.github.io with no subfolder.  Check it out.  There
+    is a page there.  I need to see how that works, including remembering how
+    I created it.
+
 *---|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
- 0.0.0 2023-08-27T02:56Z Initial placeholder and TODOs from 0.0.6 docs.txt
+
+ 0.0.1 2023-08-17T15:42Z Expanded TODOs and inclusion of index.md
+ 0.0.0 2023-08-17T02:56Z Initial placeholder and TODOs from 0.0.6 docs.txt
        boilerplate
 
                  ***** end of preservation.txt *****
