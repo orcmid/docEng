@@ -1,5 +1,5 @@
-docs.txt 0.0.5                      UTF-8                         2022-10-13
-----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
+docs.txt 0.0.6                     UTF-8                         2023-08-17
+*---|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
                             nfoWare/nfoWorks docEng
                             =======================
@@ -32,13 +32,20 @@ MANIFEST
             the purpose and management of the project and connection with
             the "principal investigator."
 
+      images/
+            subfolder of images relied upon for various elements of docEng
+
 construction/
             construction materials and documentation of the structure and
             authoring of the <https://orcmid.github.io/docEng/> materials.
 
-----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
+preservation/
+            activities for preservation involving preservation/forking of
+            materials to gitHub Pages projects
 
-                    Copyright 2021-2022 Dennis E. Hamilton
+*---|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
+
+                    Copyright 2021-2023 Dennis E. Hamilton
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -52,12 +59,12 @@ construction/
     See the License for the specific language governing permissions and
     limitations under the License.
 
-----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
+*---|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
  ATTRIBUTION
 
    Hamilton, Dennis E. docEng Documentation Source Code Folder manifest and
-   job jar.  Text file docs.txt version 0.0.5 dated 2022-10-13 available on
+   job jar.  Text file docs.txt version 0.0.6 dated 2023-08-17 available on
    the Internet at <https://orcmid.github.io/docEng/docs.txt>
 
  TODO
@@ -70,8 +77,8 @@ construction/
   * This is one of the pages that is part of the authoring structure too, so
     we need to confirm that and also deal with it in the location information.
 
-  * This is a variation on the site-server model.  Document that.  Maybe in
-    a notes section.
+  * This is a variation on the site-server model.  Document that in the
+    preservation topic.
 
   * Explain how this folder is used to generate the GitHub pages, possibly
     with additional folders that are about the scaffolding and construction
@@ -88,8 +95,8 @@ construction/
 
   * I am going to explore hugo and the hugo-books template with KaTeX support.
 
-  * Add Apache license and notices page ??  - It goes with the project, what
-    about the site?
+  * Add Apache license and notices page ?? .  They apply to the docEng repo,
+    what about the pages published here at docs/ ?
 
   * Figure out how to deal with the handling of Hugo frameworks in this
     context.  I want to experiment first.  How will that work exactly.
@@ -100,17 +107,18 @@ construction/
     also.
 
   * I really want to have a sandbox for trying different web-site frameworks
-    and generation methods.  Maybe I need to move spanner wingnut to GitHub?
-    This might be the safest thing.  Put it in a separate project so I can
-    migrate it different ways and have it all work.  I can also look at what
-    I did in the hexo case, and with the test files for hexo cases.
+    and generation methods.  I have added wingnut to GitHub.  This might be
+    the safest thing.  Kept in a separate project so I can
+    migrate it different ways and have it all work.  I think what I did in
+    the hexo case should be long forgotten though.
 
-  * This is hurting my head.
+  * I can attempt to preserve Spanner Wingnut here also.  That would be an
+    useful case of the overall methodology.
 
   * Add Hugo under tools and handle the establishment and use of Hugo and
-    templates there.
+    templates.
 
-  * If there is a dev for this Hugo-auhored structure, it might be about the
+  * If there is a dev for this Hugo-authored structure, it might be about the
     publishing in Hugo format.
 
   * It is tricky here between this site being in a particular Hugo
@@ -121,7 +129,8 @@ construction/
     use the construction folder to document the framework(s) used.
 
   * Translation is a Skill and also Tools here.  I don't know that it applies
-    in nfoTools, although it certainly might on behalf of i18n.  We will see.
+    in nfoTools, although it certainly might on behalf of i18n. And
+    accessibility (a11y). We will see.
 
   * There is a good article about translations using Microsoft Office at
     <https://www.computerworld.com/article/3658212/how-to-translate-emails-documents-and-more-with-microsoft-office.html>
@@ -132,10 +141,13 @@ construction/
 
   * Rescuing and retargeting web sites is also a thing.  I am doing that with
     the Site Builder scheme for nfoCentrale, exfiltrating wingnut, Orcmid's
-    Lair, and nfoCentrale at least, along with nfo stuff.
+    Lair, Miser, and nfoCentrale at least, along with nfo stuff.
 
-----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
- 0.0.5 2022-10-13T16:08Z Manage TODOs, strugle with Site Server model handling
+*---|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
+
+ 0.0.6 2023-08-17T02:44Z Expand substructure and expand TODOs
+ 0.0.5 2022-10-13T16:08Z Manage TODOs, struggle with Site Server model
+       handling
  0.0.4 2022-03-26T21:19Z Manage TODOs and prepare for framework introduction
  0.0.3 2022-03-21T17:18Z Manage TODOs, consider Hugo and wingnut approaches
  0.0.2 2021-10-29T21:46Z Change "master" to "main," add rulers

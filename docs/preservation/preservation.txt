@@ -1,0 +1,65 @@
+preservation.txt 0.0.0              UTF-8                         2023-08-17
+*---|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
+
+                            nfoWare/nfoWorks docEng
+                            =======================
+
+      <https://orcmid.github.io/docEng/preservation/preservation.txt>
+
+                 DOCENG SITE/DOCUMENT PRESERVATION ACTIVITY
+                 ------------------------------------------
+
+    Documentation of preservation activities is housed here.  A major
+    initial effort is preservation of subsites of nfoCentrale.com as the
+    related domain names are retired.  There will be related activities
+    for other kinds of preservation.
+
+MANIFEST
+
+preservation.txt
+            this manifest and job-jar file
+
+
+*---|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
+
+                     Copyright 2023 Dennis E. Hamilton
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
+*---|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
+
+ ATTRIBUTION
+
+   Hamilton, Dennis E. docEng Site/Document Preservation Activity.  Text file
+   preservation.txt version 0.0.0 dated 2023-08-17 available on the Internet
+   at <https://orcmid.github.io/docEng/preservation/preservation.txt>.
+
+ TODO
+
+  * Create a folder of the style employed for nfoTools that identifies a
+    variety of preservation activities.
+
+   * First address preservation of a site maintained with the site-server
+     model as a GitHub pages transposition.
+
+
+  * Rescuing and retargeting web sites is also a thing.  I am doing that with
+    the Site Builder scheme for nfoCentrale, exfiltrating wingnut, Orcmid's
+    Lair, Miser, and nfoCentrale at least, along with nfo stuff.
+
+*---|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
+
+ 0.0.0 2023-08-27T02:56Z Initial placeholder and TODOs from 0.0.6 docs.txt
+       boilerplate
+
+                 ***** end of preservation.txt *****
