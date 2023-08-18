@@ -1,24 +1,26 @@
-<!-- index.md 0.0.4              UTF-8                         dh:2023-08-17
+<!-- index.md 0.0.5                 UTF-8                         2023-08-18
      ----1----|----2----|----3----|----4----|----5----|----6----|----7----|--
      source <https://github.com/orcmid/docEng/blob/main/docs/index.md>
      construction structure, manifest, and job jar at
      <https://orcmid.github.io/docEng/docs.txt>
      -->
 
-# The docEng Project on GitHub
+# Patterns, Practices, and Tools for Document Engineering
 
-![Document Engineering](images/DocEng-2022-10-14-0744-LogoLarge.png)
+| ***[docEng](.)*** | ***[Work-in-Progress](docs.txt)*** | ***0.0.5 index.html 2023-08-18*** |
+| :--                |       :-:          | --: |
+| | ![Document Engineering](images/DocEng-2022-10-14-0744-LogoLarge.png) | |
 
 This space is under construction.  This page will become the home page for
-The docEng Project documentation on GitHub.  One aspect of the Document
-Engineering is that the site is always published and must be ready for
+The docEng Project documentation on GitHub.  One aspect of document
+engineering for docEng itself is having the site always ready for
 publication on any check-in pushed to the project repository.  Words in the
 open is practiced here, along with having any code in the open.
 
-The effort is a form of solo document engineering at this point.  It is a bit
-of Document Engineering about Document Engineering.
+The docEng project is a form of solo document engineering at this point.
+It is a bit of Document Engineering about Document Engineering.
 
-One interest is focus on the ways that GitHub can be used for document
+Focus is on the ways that GitHub can be used for document
 authoring and (web) publication in useful ways, even though writing Markdown
 pages and collaboration via GitHub may be rather alien to folks who just want
 to author technical documents.  We need to look at the friction of that and
@@ -38,7 +40,7 @@ The published form of this material is at <https://orcmid.github.io/docEng/>
 
 Notes on the plumbing within the structure are found at pages such as
 [docs.txt](docs.txt).  Such text pages are moved intact to the published
-form.
+web location and can be accessed by the curious.
 
 The footer, offering page improvement (and presumably requiring a push
 request) is maybe not what I had in mind.  It requires logging into GitHub.
@@ -46,18 +48,12 @@ request) is maybe not what I had in mind.  It requires logging into GitHub.
 An important feature of the default (i.e., none-specified) theme is that
 reflow on change of browser view width is automatic and as desired.
 
-I do have some concerns about explicit versioning and having content that
-is skipped.  I can specify HTML comments for that, and I am doing so.
-
-We will also run through all of the Markdown options to see how they are
-rendered here.  Theme demos provide a nice comparison.
-
 Demonstration of the current theme, including the markdown elements, is
 at [current](construction/current/) here.
 
 ## docEng Table of Content
 
-The nfoTools web is organized in topical sections.
+The docEng web is organized in topical sections.
 
 | **Section** |  **General Topic** |
 |   --:       |  ---               |
@@ -80,6 +76,7 @@ from time to time.
 
 
 <!--
+     0.0.5 2023-08-18T20:05Z Clean-ups
      0.0.4 2023-08-17T03:17Z Start expanding, and the big logo image
      0.0.3 2022-03-21T17:38Z Correct Construction structure link
      0.0.2 2021-10-29T21:54Z Smoothing, changing "master" to "main"
