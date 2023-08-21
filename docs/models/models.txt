@@ -1,0 +1,80 @@
+models.txt 0.0.0                     UTF-8                         2023-08-21
+*---|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
+
+                            nfoWare/nfoWorks docEng
+                            =======================
+
+              <https://orcmid.github.io/docEng/models/models.txt>
+
+                        DOCENG MODELS DOCUMENTATION
+                        ---------------------------
+
+    Documentation of docEng models is published here as GutHub Pages (so
+    itself provided in one of the models to be described).  This scaffolding
+    page is also here as passive but reachable content.
+
+    There is an intersection of 2-3 models in this instance.  There's the
+    construction structure scaffolding variation on the nfoCentrale site-
+    server model, there's the code project scaffolding that this page is
+    directly borrowed from, and there's any additional framework staging
+    model that may come into play.  All to capture material on document
+    engineering itself.
+
+    This scaffolding, and further arrangements are an aspect of document
+    engineering applied to the docEng project and site themselves.
+
+MANIFEST
+
+     models.txt
+            this manifest and job-jar file
+
+
+
+
+
+*---|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
+
+                    Copyright 2023 Dennis E. Hamilton
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
+*---|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
+
+ ATTRIBUTION
+
+   Hamilton, Dennis E. docEng Models Documentation manifest and job jar.
+   Text file models.txt version 0.0.0 dated 2023-08-21 available on
+   the Internet at <https://orcmid.github.io/docEng/moldels/models.txt>
+
+ TODO
+
+  * Add an index.md page as a placeholder about models.  Use any of the models
+    to do that.
+
+  * Rescuing and retargeting web sites is also a thing.  I am doing that with
+    the Site Builder scheme for nfoCentrale, exfiltrating wingnut, Orcmid's
+    Lair, Miser, and nfoCentrale at least, along with nfo stuff.
+
+  * There's the site-builder model to describe.
+
+  * There's the nfoCentrale model as well.  It is a variant of site-builder/
+    -server model that uses a scaffolding structure.  It is the scaffolding
+    that I want to capture, because a version of it is used in text files of
+    GitHub repository folders.  This models.txt page is exemplary.
+
+*---|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
+
+ 0.0.0 2023-08-21T14:47Z Placeholder derived from docs.txt 0.0.6 as
+       boilerplate.
+
+                       ***** end of models.txt *****
