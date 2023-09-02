@@ -1,4 +1,4 @@
-docs.txt 0.0.7                     UTF-8                         2023-08-21
+docs.txt 0.0.8                     UTF-8                         2023-09-02
 *---|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
                             nfoWare/nfoWorks docEng
@@ -7,8 +7,8 @@ docs.txt 0.0.7                     UTF-8                         2023-08-21
         <https://github.com/orcmid/docEng/blob/main/docs/docs.txt>
                   <https://orcmid.github.io/docEng/docs.txt>
 
-                   DOCENG DOCUMENTATION SOURCE CODE FOLDER
-                   ---------------------------------------
+                   DOCENG DOCUMENTATION GITHUB PAGES FOLDER
+                   ----------------------------------------
 
     Documentation of docEng tools and approaches is provided here as the
     source of GitHub Pages for automatic publishing to
@@ -68,7 +68,7 @@ preservation/
  ATTRIBUTION
 
    Hamilton, Dennis E. docEng Documentation Source Code Folder manifest and
-   job jar.  Text file docs.txt version 0.0.7 dated 2023-08-23 available on
+   job jar.  Text file docs.txt version 0.0.8 dated 2023-09-02 available on
    the Internet at <https://orcmid.github.io/docEng/docs.txt>
 
  TODO
@@ -162,8 +162,30 @@ preservation/
     internal competition with Sharepoint was doubtless a factor.  And now
     with concentration on Azure, the whole thing is upended.
 
+  * The idea of scaffolding and then leaving the scaffolding as the record
+    of the construction and actions taken with it is pervasive.  It is like
+    an aircraft carrying or having access its complete construction and
+    maintenance history.  This originated in a software engineering course
+    team project (link to it in Orcmid), and I confess to getting fascinated
+    with that and getting lost in it.  There may be too much history and fine
+    details, yet it is not known what detail or action will be particularly
+    informative.  There is scaffolding with the use of folder-name.txt files
+    among GitHub pages and also other parts of a project's folder structure
+    under git and GitHub.  These can interplay.  The disadvantage is that the
+    TODOs vanish when they are done.  The history vanishes into the git
+    commit histories.
+
+  * Bring a construction structure here and use that model for the docEng
+    site, now that I know this works on GitHub Pages.  There needs to be a
+    folio on the idea, and then different ways of achieving it.  On web sites
+    with the Site Builder model, then on sites with the GitHub Pages model.
+    Then when we want to use frameworks and have multiple targets, whether
+    responsive web or persistent document forms, such as PDF or productivity
+    formats (ODF and OOXML especially).
+
 *---|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
+ 0.0.8 2023-09-02T15:43Z More noodling
  0.0.7 2023-08-21T15:10Z Add models/ and TODO musings
  0.0.6 2023-08-17T02:44Z Expand substructure and expand TODOs
  0.0.5 2022-10-13T16:08Z Manage TODOs, struggle with Site Server model
