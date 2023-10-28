@@ -1,4 +1,4 @@
-docEng.txt 0.0.6                    UTF-8                      dh:2022-12-22
+docEng.txt 0.0.7                    UTF-8                      dh:2023-10-28
 ----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
              nfoWare/nfoWorks docEng Document Engineering Project
@@ -59,7 +59,7 @@ MANIFEST
 
 ----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
-                    Copyright 2021-2022 Dennis E. Hamilton
+                    Copyright 2021-2023 Dennis E. Hamilton
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -78,12 +78,13 @@ MANIFEST
 ATTRIBUTION
 
    Hamilton, Dennis E. Patterns, Practices, and Tools for Document
-   Engineering, manifest and job jar.  Text file docEng.txt version 0.0.6
-   dated 2022-12-22 available on the Internet as a version of
+   Engineering, manifest and job jar.  Text file docEng.txt version 0.0.7
+   dated 2023-10-28 available on the Internet as a version of
    <https://github.com/orcmid/docEng/blob/main/docEng.txt>
 
-
 TODO
+
+  * Fix .gitignore to ignore FrontPage artifacts in case they occur here.
 
   * Edit GitHub Readme.md to describe this project.
 
@@ -98,9 +99,80 @@ TODO
   * Start using orcmid/docEng Issues, Discussion, and Projects for operation
     in the open
 
+  * CRITICAL QUESTION: Will we use the nfoCentrale Construction Structure and
+    Construction Materials scheme here, and if so, how do we deal with
+    conversations about other forms of docEng.  Reconcile this with the
+    originally-intended scope for docEng.
+
   * Get into the GitHub templates for documentation and deal with it in the
     Construction Materials of the docEng site.  See
     <https://github.com/orcmid/nfoTools/issues/8>.
+
+  * The use of FrontPage for GitHub Pages is not the same as the site-server
+    model.  There is no separation between authored and published.  With
+    FrontPage over a GitHub Pages folder (e.g., a docs/) there is no sepaation
+    of design-time and server publishing.  Design-time operations are
+    immediately publised once committed to the GitHub projct.  I'm fine with
+    that.  It just needs to be clear in how I speak about it.
+
+  * Find a clean way to talk about the *authored" documentation and the
+    *authoring" source that is published to be the documentation.  Need some
+    nomenclature that I don't keep tripping over.  [from Miser Project]
+
+  * The default rendering, with no template, provides reflow in the manner
+    required for Miser Project documentation.  How to ensure that with any
+    of the provided themes remains to be understood. [from Miser Project]
+
+  * Find a theme that supports reflow.  The Pages templates do not seem to
+    provide for that. [from Miser Project]
+
+  * If a theme is customized, determine where and how that works. [from
+    Miser Project]
+
+  * I am trusting that this material is current as of 2019-11-20:
+    <https://help.github.com/en/github/working-with-github-pages/getting-started-with-github-pages>
+
+   * I have been employing in-line HTML comments to account for versioning
+     of markdown pages here.  I don't know if there is something better, using
+     YAML or something. [from Miser Project]
+
+   * Work through all of the feature cases of GitHub Markdown to see what
+     works with the default template.  Use construction/test/ or example/
+     for that.  [from Miser Project]
+
+   * Create a test document (set) that demonstrates the main Markup
+     provisions. [from Miser Project]
+
+   * Create a folder (i.e., plain/ that carries captured images of the
+     current test/demo document under the default template).  [from Miser
+     Project]
+
+   * Make a template for the index.md source pages. [from Miser Project]
+
+   * Add a forensics folder on web-site and authoring, plus trouble-shooting,
+     reverse-engineering, etc.  Maybe this belongs on docEng.
+     [from Miser Project]
+
+   * Confirm preservation with pre-HTML5 browsers, such as Internet Explorer.
+     [from Miser Project]
+
+   * The "improve this page" and edit/master link requires being logged-in to
+     GitHub.  We need a way to suppress that.  [from Miser Project]
+
+  * The folio system is a bit different here.  There can be a counterpart in
+    how pages and their assets are in folders.  The idea of version sequences
+    does not quite work unless we take it to a lower level.  The use of insert
+    pages might have no counterpart here.  Having the effect would take
+    copying. [now that FrongPage is being used, the design-time actions are
+    now available.  The dealing with folio depth and URL-shortening is
+    illustrated in nfoTools/tools.] [from Miser Project]
+
+  * GitHub, and use of Git, provides a valuable history and provenance system.
+    It requires access to such "document forensic" tools and doesn't support
+    removed (? what phrase did I intend here) prints of pages the way I have
+    desired.  I think this is about wanting to always have material be
+    printable and having its provenance/origin be explicit in it.
+    [from Miser Project]
 
   * I need docEng of the docEng/docs about docEng.  This seemingly recursive
     case needs to bottom out on some ground case.
@@ -193,6 +265,8 @@ TODO
 
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
+ 0.0.7 2023-10-28T17:03Z Reflect refactoring and availability of a FrontPage
+       case here.
  0.0.6 2022-12-22T17:01Z Manage TODOs, ponder a11y.
  0.0.5 2022-10-13T16:12Z Review of TODOs, pondering of approach here.
  0.0.4 2022-04-29T17:31Z Pondering web-site authoring collaboration models
