@@ -1,4 +1,4 @@
-# .gitattributes 0.0.2             UTF-8                        dh:2021-02-14
+# .gitattributes 0.0.3             UTF-8                        dh:2023-10-08
 #
 #                GIT ATTRIBUTES FOR THE docEng GIT REPOSITORY
 
@@ -16,6 +16,7 @@
 
 *.bmp binary
 *.gif binary
+*.jfif binary
 *.jpg binary
 *.jpeg binary
 *.png binary
@@ -33,6 +34,7 @@
 *.odm binary
 *.odb binary
 
+# 0.0.3 2023-10-08T18:04Z Add *.jfif
 # 0.0.2 2021-02-14T00:59Z Customize for docEng, with some known-binary files
 #       likely to appear in this repository
 # 0.0.1 2016-10-04-11:23 Create Minimal .gitattributes (Miser Project)
