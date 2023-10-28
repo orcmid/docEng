@@ -1,16 +1,13 @@
-# .gitignore 0.0.1                     UTF-8                    dh:2022-12-23
+# .gitignore 0.0.4                    UTF-8                       2023-09-29
 #
-#                                  ORCMID/docEng
-#                                  =============
+#                          ORCMID/ORCMID.GITHUB.IO/ORCMID
+#                          ==============================
 #
-#              .GITIGNORE FOR KEEPING FILES OUT OF THE REPOSITORY
+#      .GITIGNORE FOR KEEPING FRONTPAGE ARTIFACTS OUT OF REPOSITORY
 #
-#   This .gitignore file is designed to eliminate working folder material
-#   that should be excluded from check-in to the repository or any clone of
-#   it.  These will normally be intermediate and derived materials that are
-#   not archived.  This is typically accomplished, where possible, by
-#   excluding a directory whose contents are ephemeral, such as intermediates
-#   in a document generation procedure.
+#   This .gitignore file is designed to allow FrontPage (VerMeer) operation
+#   on this subfolder without their being committed to and carried in the
+#   repository on GitHub.
 
 ## ELIMINATE AUTHORING ARTIFACTS
 ## -----------------------------
@@ -19,12 +16,23 @@
 *~
 *#
 
+#   FrontPage authoring artifacts - These may need to shared across clones
+_private/
+_vti_*/
+*.scc
+
+#   Windows authoring artifacts
+desktop.ini
+Thumbs.db
 
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-# 0.0.1 2022-12-23T20:40Z Fix typo
-# 0.0.0 2021-02-15T01:14Z Minimal version as a placeholder in case any other
-#       need arises.
-
-#                         *** end of .gitignore ***
+#
+# 0.0.4 2023-09-29T17:34Z Eliminate _vti_cnf/ and _vti_pvt/ again
+# 0.0.3 2023-09-28T01:10Z Ditch *.scc files again
+# 0.0.2 2023-09-28T00:57Z Share vti_*/ folders across clones (for now)
+# 0.0.1 2023-08-29T02:38Z Exclude Thumbs.db even though we don't see them
+# 0.0.0 2023-08-27T20:40Z Adapt from the Miser Project 0.0.8 .gitignore as
+#       boilerplate.
+#
+#                    *** end of .gitignore ***

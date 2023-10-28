@@ -1,4 +1,4 @@
-# .gitattributes 0.0.3             UTF-8                        dh:2023-10-08
+# .gitattributes 0.0.4             UTF-8                        dh:2023-10-28
 #
 #                GIT ATTRIBUTES FOR THE docEng GIT REPOSITORY
 
@@ -23,6 +23,31 @@
 *.suo binary
 *.zip binary
 
+*.vsd binary
+*.vsdx binary
+*.vsdm binary
+*.vdx binary
+
+*.docx binary
+*.docm binary
+*.dotx binary
+*.dotm binary
+*.doc binary
+*.dot binary
+*.xslx binary
+*.xlsm binary
+*.xltx binary
+*.xltm binary
+*.xls binary
+*.xlt binary
+*.pptx binary
+*.pptm binary
+*.potx binary
+*.potm binary
+*.ppsx binary
+*.ppsm binary
+*.ppt binary
+
 *.odt binary
 *.ott binary
 *.ods binary
@@ -34,6 +59,7 @@
 *.odm binary
 *.odb binary
 
+# 0.0.4 2023-10-28t17:27Z Add binary forms of Office Productivity files
 # 0.0.3 2023-10-08T18:04Z Add *.jfif
 # 0.0.2 2021-02-14T00:59Z Customize for docEng, with some known-binary files
 #       likely to appear in this repository
