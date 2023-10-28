@@ -1,4 +1,4 @@
-docEng.txt 0.0.7                    UTF-8                      dh:2023-10-28
+docEng.txt 0.0.8                    UTF-8                      dh:2023-10-28
 ----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
              nfoWare/nfoWorks docEng Document Engineering Project
@@ -78,13 +78,15 @@ MANIFEST
 ATTRIBUTION
 
    Hamilton, Dennis E. Patterns, Practices, and Tools for Document
-   Engineering, manifest and job jar.  Text file docEng.txt version 0.0.7
+   Engineering, manifest and job jar.  Text file docEng.txt version 0.0.8
    dated 2023-10-28 available on the Internet as a version of
    <https://github.com/orcmid/docEng/blob/main/docEng.txt>
 
 TODO
 
   * Fix .gitignore to ignore FrontPage artifacts in case they occur here.
+
+  * URGENT: Add the Microsoft OOXML formats to .gitattributes as binaries.
 
   * Edit GitHub Readme.md to describe this project.
 
@@ -265,6 +267,7 @@ TODO
 
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
+ 0.0.8 2023-10-28T17:15Z Urgent TODO on OOXML .gitattributes
  0.0.7 2023-10-28T17:03Z Reflect refactoring and availability of a FrontPage
        case here.
  0.0.6 2022-12-22T17:01Z Manage TODOs, ponder a11y.
