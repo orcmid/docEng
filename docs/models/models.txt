@@ -1,4 +1,4 @@
-models.txt 0.0.2                     UTF-8                         2023-10-28
+models.txt 0.0.3                     UTF-8                         2023-10-29
 *---|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
                             nfoWare/nfoWorks docEng
@@ -27,8 +27,15 @@ MANIFEST
 
      models.txt
             this manifest and job-jar file
+
+      index.md
+            the Markdown form published via GitHub pages as index.htm and
+            the home page of orcmid.github.io/docEng
+
      nfoCentrale-2010-09-23-1439-Deployment.xslx
             the nfoCentral Site Server deployment model (parked here)
+
+
 
 
 
@@ -55,13 +62,25 @@ MANIFEST
  ATTRIBUTION
 
    Hamilton, Dennis E. docEng Models Documentation manifest and job jar.
-   Text file models.txt version 0.0.2 dated 2023-10-28 available on
+   Text file models.txt version 0.0.3 dated 2023-10-29 available on
    the Internet at <https://orcmid.github.io/docEng/moldels/models.txt>
 
  TODO
 
-  * Add an index.md page as a placeholder about models.  Use any of the models
-    to do that.
+  * I believe I can use the nfoCentral Construction Structure model here, it
+    is just not staged by the site-server mechanism, although that is also
+    possible by reviewing locally and perhaps via node.js before committing
+    to the orcmid/docEng/docs/ and consequent publication via/as GitHub Pages.
+
+  * Now that FrontPage is useful for the design-time creation of the various
+    *.htm pages that just pass through GitHub Pages, I think I can revert to
+    the standard construction materials although the FrontPage include Pages
+    operations are not available.
+
+  * There needs to be a decision about going to *.htm instead of *.md except
+    where the *.md formatting is preferable.  This decision will also have to
+    be moderated if an alternative publishing mechanis is used, e.g., as with
+    the Hugo Book formatting.
 
   * Rescuing and retargeting web sites is also a thing.  I am doing that with
     the Site Builder scheme for nfoCentrale, exfiltrating wingnut, Orcmid's
@@ -76,6 +95,8 @@ MANIFEST
 
 *---|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
+  0.0.3 2023-10-29T21:01Z Touch-ups and musing about FrontPage Construction
+        Structures
   0.0.2 2023-10-28T17:39Z Rename the *.xslx file to ensure .gitattributes OK
   0.0.1 2023-09-17T20:18Z Park the nfoCentrale diagram here
   0.0.0 2023-08-21T14:47Z Placeholder derived from docs.txt 0.0.6 as

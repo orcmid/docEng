@@ -1,4 +1,4 @@
-<!-- index.md 0.0.0                 UTF-8                          2023-08-21
+<!-- index.md 0.0.1                 UTF-8                          2023-10-29
      ----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
                            DOCENG MODELS NOTEBOOK
@@ -6,7 +6,7 @@
 
 # ***docEng** [Models Notebook](.)*
 
-| ***[docEng](../)*** | [models](.) | ***[index.html](index.html) 0.0.0 2023-08-21*** |
+| ***[docEng](../)*** | [models](.) | ***[index.html](index.html) 0.0.1 2023-10-29*** |
 | :--                |       :-:          | --: |
 | ![docEng](../images/DocEng-2022-10-14-0751-LogoSmall.png) | [Work in Progress](models.txt) | ![Hard Hat Area](../images/hardhat-logo.gif) |
 
@@ -17,7 +17,7 @@ as PDFs or desktop-software documents (e.g., with Microsoft Office or others).
 Models are provide here to characterize, first, the ones that are being used
 or preserved in conjunction with [Orcmid on GitHub](https://orcmid.github.io).
 
-## Modewls Catalog
+## Models Catalog
 
 ***Everything is work-in-progress at this stage of docEng development in the
 open.***
@@ -36,6 +36,7 @@ from time to time.
 
 <!-- ----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
+     0.0.1 2023-10-29T20:54Z Touch-up, typo correction
      0.0.0 2023-08-21T15:24Z Placeholder derived from docEng/docs/
            index.md 0.0.0 as boilerplate.
 
