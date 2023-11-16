@@ -1,5 +1,5 @@
-construction.txt 0.0.2              UTF-8                       dh:2022-10-13
-----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
+construction.txt 0.0.3              UTF-8                       dh:2023-11-16
+*---|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
                            The docEng Project Web
                            ======================
@@ -28,9 +28,9 @@ MANIFEST
               template.
 
 
-----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
+*---|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
-                    Copyright 2021-2022 Dennis E. Hamilton
+                    Copyright 2021-2023 Dennis E. Hamilton
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -44,13 +44,17 @@ MANIFEST
     See the License for the specific language governing permissions and
     limitations under the License.
 
-----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
+*---|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
  TODO
+  * Bring the nfoCentral construction structure here.  Continue the current/
+    and plain/ experiments being around Markdown.  These will not longer be
+    supported on the Miser Project although the handling of LaTex formulas
+    and other purposes in logic and mathematics will matter here.
 
-   * Find a clean way to talk about the *authored" documentation and the
-     "authoring" source that is published to be the documentation.  Need some
-     nomenclature that I don't keep tripping over.
+  * Find a clean way to talk about the *authored" documentation and the
+    "authoring" source that is published to be the documentation.  Need some
+    nomenclature that I don't keep tripping over.
 
   * Identify adaptation of the infrastructure technique used on sites such
     as miser-theory or the nfoCentrale sites in general.  Find appropriate
@@ -120,10 +124,12 @@ MANIFEST
     <https://orcmid.github.io/docEng>.  I did not anticipate having folio
     structure here.  I am unclear why.  If I want to do forensics on GitHub
     Pages, I could use a folio structure rather than more named subfolders.
-    Why am I resisting?
+    Why am I resisting? [2023-11-16: The ability to use FrontPage changes
+    my attitude about all of this.]
 
-----|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
+*---|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
+ 0.0.3 2023-11-16T21:19Z Reflect possibility of FrontPage cases.
  0.0.2 2022-10-13T16:05Z Manage TODOs, clarify what this Construction Zone is.
  0.0.1 2021-10-29T21:58Z Smooth, change "master" to "main," add rulers
  0.0.0 2021-02-16T00:36Z Create placeholder and initial job jar for docEng
