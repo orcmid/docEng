@@ -1,10 +1,16 @@
 # Security Policy
+<!-- ---1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
+     security.md 1.0.12            UTF-8                        dh:2024-09-22
+     -->
 
-**2024-09-09 Status**: The docEng project/repository is devoted to document engineering models and templates, primarily for the use on
-GitHub Pages.  All materials are provided in text files, static HTML files, and Markdown using the default GitHub publisher for
-GitHub Pages.  There is no anticipated need for security provisions and vulnerability consideration.  
+**2024-09-22 Status**: The docEng project/repository is devoted to document
+engineering models and templates, primarily for the use on
+GitHub Pages.  All materials are provided in text files, static HTML files,
+and Markdown using the default GitHub publisher for GitHub Pages.  There is no
+anticipated need for security provisions and vulnerability consideration.
 
-Comments are welcome under the project Issues and Discussion topics.  Pull-requests are unwarranted.
+Comments are welcome under the project Issues and Discussion topics.
+Pull-requests are unwarranted.
 
 ## Supported Versions
 
@@ -14,12 +20,21 @@ Comments are welcome under the project Issues and Discussion topics.  Pull-reque
 
 ## Reporting a Vulnerability
 
-Please confine vulnerability reporting to Orcmid on GitHub projects that have supported releases.  If you believe there is still need to engage in
-private discussion about a potential threat or threat-surface defect here on docEng, please use the GitHub
-vulerability reporting provision of this project's Security tab.
+Please confine vulnerability reporting to Orcmid on GitHub projects that have supported releases.
 
-If you are unable to exercise that capability, or prefer private email communication, send a digitally-signed plaintext email to 
+To privately report an exploitable vulnerability or exposed threat-surface
+that pertains to docEng, however unlikely, use the GitHub vulnerability
+reporting provision of the
+[Adv10 Security](https://github.com/orcmid/docEng/security) tab.
+
+If you are unable to exercise that capability, or prefer private email
+communication, send a digitally-signed plaintext email to
 [orcmid](mailto:orcmid@msn.com).
 
-If you have additional concerns about email security/privacy, put your message in an ASCII-armored PGP-encrypted enclosure using the
-[orcmid Apache](https://people.apache.org/keys/committer/orcmid.asc) public key.
+If you have reservations about email security/privacy, enclose an
+ASCII-armored file PGP-encrypted using the
+[orcmid Apache](https://people.apache.org/keys/committer/orcmid.asc)
+public key.
+
+Finally, if you wish encrypted responses, sign that message before
+encryption in order for your public key to be available for that purpose.
