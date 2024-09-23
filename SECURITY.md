@@ -1,9 +1,9 @@
 # Security Policy
 <!-- ---1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
-     security.md 1.0.12            UTF-8                        dh:2024-09-22
+     security.md 1.0.13            UTF-8                        dh:2024-09-23
      -->
 
-**2024-09-22 Status**: The docEng project/repository is devoted to document
+**2024-09-23 Status**: The docEng project/repository is devoted to document
 engineering models and templates, primarily for the use on
 GitHub Pages.  All materials are provided in text files, static HTML files,
 and Markdown using the default GitHub publisher for GitHub Pages.  There is no
@@ -20,7 +20,8 @@ Pull-requests are unwarranted.
 
 ## Reporting a Vulnerability
 
-Please confine vulnerability reporting to Orcmid on GitHub projects that have supported releases.
+Please confine vulnerability reporting to Orcmid on GitHub projects that have
+supported releases.
 
 To privately report an exploitable vulnerability or exposed threat-surface
 that pertains to docEng, however unlikely, use the GitHub vulnerability
