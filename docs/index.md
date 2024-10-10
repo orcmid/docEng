@@ -7,7 +7,7 @@
 
 # Patterns, Practices, and Tools for Document Engineering
 
-| ***[docEng](.)*** | ***[Work-in-Progress](docs.txt)*** | ***0.0.5 index.html 2023-08-18*** |
+| ***[docEng](.)*** | ***[Work-in-Progress](docs.txt)*** | ***0.0.6 index.html 2024-10-10*** |
 | :--                |       :-:          | --: |
 | | ![Document Engineering](images/DocEng-2022-10-14-0744-LogoLarge.png) | |
 
@@ -71,11 +71,12 @@ I invite discussion about docEng topics in the
 Improvements and removal of defects in this particular documentation can be
 reported and addressed in the
 [Issues section](https://github.com/orcmid/docEng/issues).  There are also
-relevant [projects](https://github.com/orcmid/docEng/projects?type=classic)
+relevant [projects](https://github.com/orcmid/docEng/projects?query=is%3Aopen)
 from time to time.
 
 
 <!--
+     0.0.6 2024-10-10T16:31Z Correct projects link
      0.0.5 2023-08-18T20:05Z Clean-ups
      0.0.4 2023-08-17T03:17Z Start expanding, and the big logo image
      0.0.3 2022-03-21T17:38Z Correct Construction structure link
