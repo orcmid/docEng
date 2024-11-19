@@ -1,4 +1,4 @@
-# .gitattributes 0.0.4             UTF-8                        dh:2023-10-28
+# .gitattributes 0.0.5             UTF-8                        dh:2024-11-19
 #
 #                GIT ATTRIBUTES FOR THE docEng GIT REPOSITORY
 
@@ -27,6 +27,8 @@
 *.vsdx binary
 *.vsdm binary
 *.vdx binary
+
+*.kra binary
 
 *.docx binary
 *.docm binary
@@ -59,6 +61,7 @@
 *.odm binary
 *.odb binary
 
+# 0.0.5 2024-11-19T17:22Z Add *.kra
 # 0.0.4 2023-10-28t17:27Z Add binary forms of Office Productivity files
 # 0.0.3 2023-10-08T18:04Z Add *.jfif
 # 0.0.2 2021-02-14T00:59Z Customize for docEng, with some known-binary files
