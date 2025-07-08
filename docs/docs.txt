@@ -1,4 +1,4 @@
-docs.txt 0.0.8                     UTF-8                         2023-09-02
+docs.txt 0.0.9                     UTF-8                         2025-07-08
 *---|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
                             nfoWare/nfoWorks docEng
@@ -49,7 +49,7 @@ preservation/
 
 *---|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
-                    Copyright 2021-2023 Dennis E. Hamilton
+                    Copyright 2021-2025 Dennis E. Hamilton
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -183,8 +183,13 @@ preservation/
     responsive web or persistent document forms, such as PDF or productivity
     formats (ODF and OOXML especially).
 
+  * Bring hybridForm here from orcmid.github.io/miser and retro-fit it into
+    usage here and also as a model.
+
 *---|----1----|----2----|----3----|----4----|----5----|----6----|----7----|--*
 
+ 0.0.9 2025-07-08T15:15Z Add Work Item about hybridForm as model and for
+       employment here.
  0.0.8 2023-09-02T15:43Z More noodling
  0.0.7 2023-08-21T15:10Z Add models/ and TODO musings
  0.0.6 2023-08-17T02:44Z Expand substructure and expand TODOs
